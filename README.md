@@ -1,7 +1,4 @@
-I did NOT write this.
-
-
-I just wanted to keep this code handy.
+I did NOT write this.  I just keep this code handy.
 
 ## INSTALLATION
 
