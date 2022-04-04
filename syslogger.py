@@ -68,6 +68,6 @@ args = parser.parse_args()
 message = "hi"
 level = 6
 facility = 3
-host = "192.168.150.108"
+host = "192.168.160.18"
 port = 514
 syslog (message, level, facility, host, port)
